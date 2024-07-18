@@ -110,9 +110,9 @@ Enter the end date (dd-mm-yyyy): 30-06-2024
 
 **Summary**
 
-Total Income: $900.00
-Total Expense: $700.00
-Net Saving : $200.00
+Total Income: $900.00  
+Total Expense: $700.00  
+Net Saving : $200.00  
 Do you want to see a plot on transactions (y/n)? y
 
 ![Income and Expense Plot](income_expense_plot.png)
