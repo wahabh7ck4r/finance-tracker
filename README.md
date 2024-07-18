@@ -86,25 +86,27 @@ Enter your choice (1-3): 2
 Enter the satrt date (dd-mm-yyyy): 01-06-2024
 Enter the end date (dd-mm-yyyy): 30-06-2024
 
-transaction from 01-06-2024 to 30-06-2024
-      date  amount category    description
-01-06-2024   100.0   Income Freelance Work
-02-06-2024    40.0  Expense      Groceries
-04-06-2024    75.0  Expense      Utilities
-06-06-2024    15.0  Expense         Snacks
-08-06-2024    50.0  Expense            Gas
-10-06-2024   200.0   Income Freelance Work
-12-06-2024    25.0  Expense Transportation
-14-06-2024    80.0  Expense     Dining Out
-15-06-2024   300.0   Income         Salary
-18-06-2024    50.0  Expense      Groceries
-20-06-2024    75.0  Expense            Gas
-22-06-2024   200.0   Income Freelance Work
-23-06-2024    30.0  Expense     Dining Out
-25-06-2024    60.0  Expense      Utilities
-26-06-2024   120.0  Expense     Buy Laptop
-28-06-2024    80.0  Expense      Groceries
-29-06-2024   100.0   Income           Gift
+# Transactions from 01-06-2024 to 30-06-2024
+
+| Date       | Amount | Category | Description        |
+|------------|--------|----------|--------------------|
+| 01-06-2024 | 100.0  | Income   | Freelance Work     |
+| 02-06-2024 | 40.0   | Expense  | Groceries          |
+| 04-06-2024 | 75.0   | Expense  | Utilities          |
+| 06-06-2024 | 15.0   | Expense  | Snacks             |
+| 08-06-2024 | 50.0   | Expense  | Gas                |
+| 10-06-2024 | 200.0  | Income   | Freelance Work     |
+| 12-06-2024 | 25.0   | Expense  | Transportation      |
+| 14-06-2024 | 80.0   | Expense  | Dining Out         |
+| 15-06-2024 | 300.0  | Income   | Salary             |
+| 18-06-2024 | 50.0   | Expense  | Groceries          |
+| 20-06-2024 | 75.0   | Expense  | Gas                |
+| 22-06-2024 | 200.0  | Income   | Freelance Work     |
+| 23-06-2024 | 30.0   | Expense  | Dining Out         |
+| 25-06-2024 | 60.0   | Expense  | Utilities          |
+| 26-06-2024 | 120.0  | Expense  | Buy Laptop         |
+| 28-06-2024 | 80.0   | Expense  | Groceries          |
+| 29-06-2024 | 100.0  | Income   | Gift               |
 
 **Summary**
 
