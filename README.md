@@ -63,7 +63,7 @@ python main.py
 - Enter `I` for Income.
 - Enter `E` for Expense.
 
-## Example
+# Example
 
 1. Add a new transaction
 2. View transaction and summary within a date range
